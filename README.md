@@ -21,7 +21,7 @@ The objective of this project is to practice basic Python programming concepts s
 - Python
 
 
-## ▶How to Run the Program
+## How to Run the Program
 
 1. Make sure Python is installed
 2. Open terminal or command prompt
@@ -29,7 +29,6 @@ The objective of this project is to practice basic Python programming concepts s
 4. Run the program:
 
 
----
 
 ## Learning Outcomes
 
